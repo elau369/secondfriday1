@@ -11,7 +11,7 @@ _This site is designed to give you a basic understanding of Ruby, Ruby on Rails,
 ## Setup/Installation Requirements
 
 * _No real installation needed besides a modern web browser which can run html, css, javascript and jquery which most should run fine without additional assistance._
-* _The product should be viewable on GITHUBS gh-pages feature at https://elau369.github.io/2ndfridayproject/_
+* _The product should be viewable on GITHUBS gh-pages feature at https://elau369.github.io/secondfriday1/_
 
 
 ## Known Bugs
